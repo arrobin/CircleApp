@@ -1,0 +1,18 @@
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\18.4.15\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\18.4.15\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\18.4.15\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\18.4.15\CircleApp\CircleApp\obj\Debug\CircleApp.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\18.4.15\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\18.4.15\CircleApp\CircleApp\obj\Debug\CircleApp.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\CircleApp\CircleApp\obj\Debug\CircleApp.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\CircleApp\CircleApp\obj\Debug\CircleApp.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+E:\.NET Web App(Batch-4)\11-05-2015\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+E:\.NET Web App(Batch-4)\11-05-2015\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+E:\.NET Web App(Batch-4)\11-05-2015\CircleApp\CircleApp\obj\Debug\CircleApp.pdb
+E:\.NET Web App(Batch-4)\11-05-2015\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+E:\.NET Web App(Batch-4)\11-05-2015\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+E:\.NET Web App(Batch-4)\11-05-2015\CircleApp\CircleApp\obj\Debug\CircleApp.csprojResolveAssemblyReference.cache
